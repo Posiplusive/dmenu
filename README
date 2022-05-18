@@ -1,4 +1,8 @@
 Posi+ive's build of dmenu
 ----------------------
 Patches applied:
-none atm, I lost my old build
+Border
+Case Insensitive
+Center
+Fuzzy Highlight
+Fuzzy Match
